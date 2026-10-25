@@ -1,53 +1,54 @@
----
-title: Welcome to my blog!
+title: "Small Steps Lead to Big Success"
 
-# Small Steps Lead to Big Success
+introduction: |
+  Have you ever wanted to achieve something big but felt unsure about where to start?
 
-## Introduction
+  It could be learning a new skill, improving your health, getting a better job, or starting a business. Sometimes, our goals seem so big that we don't even take the first step.
 
-Have you ever wanted to achieve something big but felt unsure about where to start?
+  But the truth is simple: small steps can lead to big changes.
 
-It could be learning a new skill, improving your health, getting a better job, or starting a business. Sometimes, our goals seem so big that we don't even take the first step.
+sections:
+  - heading: "Why Are Small Steps Important?"
+    content: |
+      We often think that success requires a lot of time, money, or effort. However, small actions repeated every day can make a big difference.
 
-But the truth is simple: **small steps can lead to big changes.**
+      For example:
+      - Reading for 10 minutes every day can improve your knowledge.
+      - Walking for 15 minutes daily can help you stay active.
+      - Learning one new skill each week can improve your career.
+      - Saving a small amount of money regularly can help you build your savings.
 
-## Why Are Small Steps Important?
+      You don't need to change everything in one day. Start with something small and keep going.
 
-We often think that success requires a lot of time, money, or effort. However, small actions repeated every day can make a big difference.
+  - heading: "How Can You Get Started?"
+    content: |
+      Here are three simple steps you can follow.
 
-For example:
+      1. Choose One Goal
+         Don't try to do everything at once. Pick one thing you want to improve.
 
-* Reading for 10 minutes every day can improve your knowledge.
-* Walking for 15 minutes daily can help you stay active.
-* Learning one new skill each week can improve your career.
-* Saving a small amount of money regularly can help you build your savings.
+      2. Take a Small Action
+         Break your goal into smaller tasks. If you want to learn programming, start by spending 15 minutes a day learning the basics.
 
-You don't need to change everything in one day. Start with something small and keep going.
+      3. Stay Consistent
+         You may not see results immediately. Don't give up if progress seems slow. Focus on improving a little every day.
 
-## How Can You Get Started?
+  - heading: "Final Thoughts"
+    content: |
+      Success doesn't happen overnight. It comes from the small decisions and actions we take every day.
 
-Here are three simple steps you can follow:
+      You don't have to be perfect. You just have to start.
 
-**1. Choose One Goal**
+      Remember, a small step taken today is better than a big plan that you never begin.
 
-Don't try to do everything at once. Pick one thing you want to improve.
+      So, what is one small step you can take today to improve your life?
 
-**2. Take a Small Action**
+conclusion: "Start small, stay consistent, and keep moving forward."
 
-Break your goal into smaller tasks. If you want to learn programming, start by spending 15 minutes a day learning the basics.
+tags:
+  - personal development
+  - motivation
+  - success
+  - productivity
 
-**3. Stay Consistent**
-
-You may not see results immediately. Don't give up if progress seems slow. Focus on improving a little every day.
-
-## Final Thoughts
-
-Success doesn't happen overnight. It comes from the small decisions and actions we take every day.
-
-You don't have to be perfect. You just have to start.
-
-Remember, **a small step taken today is better than a big plan that you never begin.**
-
-So, what is one small step you can take today to improve your life?
-
----
+author: "Liju"
