@@ -1,4 +1,5 @@
 title: "Small Steps Lead to Big Success"
+date: 2026-10-26
 
 introduction: |
   Have you ever wanted to achieve something big but felt unsure about where to start?
